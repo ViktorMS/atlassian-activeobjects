@@ -13,7 +13,8 @@ atlas-run
 
 # What does it do?
 
-Go to http://localhost:5990/refapp/plugins/servlet/todo/list
-Log in as admin / admin
-Go to http://localhost:5990/refapp/plugins/servlet/todo/list again.
-A form should display, where you can store data to a database.
+* Go to http://localhost:5990/refapp/plugins/servlet/todo/list
+* Log in as admin / admin
+* Go to http://localhost:5990/refapp/plugins/servlet/todo/list again.
+* A form should display, where you can store data to a database.
+
