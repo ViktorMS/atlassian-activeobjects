@@ -18,12 +18,12 @@ atlas-run
 * Go to http://localhost:5990/refapp/plugins/servlet/todo/list again.
 * A form should display, where you can store data to a database.
 
-# Quickreload / Refresh after code change without stopping Jira
+### Quickreload / Refresh after code change without stopping Jira
 atlas-package
 
-# Remove Jira folder and do a clean install / Useful for debugging and changing versions
+### Remove Jira folder and do a clean install / Useful for debugging and changing versions
 atlas-clean
 
-## Common errors
+### Common errors
 If you are using Windows: 'else' is not recognized as an internal or external command, fix is in comments: https://ecosystem.atlassian.net/browse/ATLASSDK-93
 
